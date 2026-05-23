@@ -1,4 +1,3 @@
-
 UltimateMoneyMachine/
 │
 ├── 📄 .env                 # (Secret codes for your app)
